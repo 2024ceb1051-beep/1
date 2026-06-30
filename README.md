@@ -268,7 +268,9 @@ After completing dashboard development and validation, the report was published 
 
 ### Financial Risk Metrics
 
-![Dashboard 3](YOUR_GITHUB_IMAGE_LINK_3)# Insights
+![Dashboard 3](YOUR_GITHUB_IMAGE_LINK_3)
+
+# Insights
 
 A three-page interactive report was created on Power BI Desktop and was later published to Power BI Service.
 
